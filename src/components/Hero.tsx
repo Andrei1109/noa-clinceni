@@ -32,11 +32,10 @@ export default function Hero() {
                             Clinceni • Finalizare 2026
                         </span>
                         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6 drop-shadow-lg text-white">
-                            Mai mult decât metri pătrați. <br />
-                            <span className="text-brand-accent">Acasă</span>, pe pământ.
+                            Locul unde inovația întâlnește <span className="text-brand-accent">confortul</span>.
                         </h1>
                         <p className="text-lg md:text-xl text-gray-100 mb-10 max-w-xl leading-relaxed drop-shadow-md font-medium">
-                            Ansamblu rezidențial de case pe un singur nivel. Evadează din aglomerație și bucură-te de un cer senin, fără vecini deasupra ta.
+                            Design, confort și durabilitate – tot ce îți poți dori, într-un singur loc.
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4">
